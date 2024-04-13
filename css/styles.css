@@ -1,0 +1,56 @@
+.H1 {
+	display: inline;
+	vertical-align: middle;
+	font-size: 500%;
+	background-image: linear-gradient(to right, cyan, yellow);
+	background-clip: text;
+	color: transparent;
+}
+
+.HeaderLogo {
+	height: 250px;
+	width: 150px;
+}
+
+.header {
+	text-align: center;
+}
+.MainText {
+	display: inline;
+}
+
+.FooterImage1 {
+	width: 600px;
+	height: 100px;
+}
+
+.FooterImage2 {
+	width: 600px;
+	height: 100px;
+	margin-left: 300px;
+}
+
+.H2 {
+	text-align: center;
+	margin-bottom: 25px;
+	margin-top: 90px;
+	font-size: 350%;
+}
+.MainImage{
+	display: inline;
+
+}
+
+
+.MainText{
+	display: inline-block;
+	margin: 30px;
+	font-size: 150%;
+}
+
+
+
+body {
+	background: rgb(34,193,195);
+background: linear-gradient(270deg, rgba(34,193,195,1) 0%, rgba(255,191,0,1) 68%);
+	}
